@@ -1,0 +1,6 @@
+{
+  "name": "SIPELAJAR Palembang - Sistem Pelaporan Jalan Rusak",
+  "description": "Sistem Informasi Pelaporan Jalan Rusak Dinas PUPR Kota Palembang. Layanan terpadu pengaduan masyarakat, pemantauan status perbaikan jalan, dan pemetaan sebaran titik kerusakan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
